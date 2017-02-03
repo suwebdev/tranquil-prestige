@@ -5,8 +5,22 @@
    ========================================================================== */
 
 
+.register-container {
+    float: right;
+}
 
+.jumbo-content {
+    width: 500px;
+    margin: 25px;
+}
 
+.jumbotron {
+    padding-top: 15px;
+}
+
+.btn-submit {
+    margin-top: 10px;
+}
 
 
 
