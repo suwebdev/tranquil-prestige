@@ -4,19 +4,28 @@
    Author's custom styles
    ========================================================================== */
 
+.poet-image img {
+  display: block;
+  width: auto;
+  height: 150px;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.pic-button {
+  background-color: lightgray;
+  text-align: center;
+  width: 40%;
+  margin-top: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
 
+.pic-button a {
+  color: black;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.fave-images h2 {
+  text-align: center;
+}
