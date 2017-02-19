@@ -3,27 +3,14 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-
-.register-container {
-    float: right;
+.friends img {
+    width: 66px;
+    height: 105px;
 }
 
-.jumbo-content {
-    width: 500px;
-    margin: 25px;
+.each-friend {
+    margin-top: 8px;
 }
-
-.jumbotron {
-    padding-top: 15px;
-}
-
-.btn-submit {
-    margin-top: 10px;
-}
-
-
-
 
 
 
